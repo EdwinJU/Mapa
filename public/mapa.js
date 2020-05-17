@@ -20,6 +20,8 @@
   }
 */
    //var myURL = jQuery( 'script[src$="leaf-demo.js"]' ).attr( 'src' ).replace( 'leaf-demo.js', '' );
+   //Esta es una linea probando 
+   
 
    var myIcon = L.icon({
    iconUrl: 'Images/CocinasComunales.svg',
